@@ -1,0 +1,54 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+@font-face {
+  font-family: 'Gotham-Bold';
+  src: url('/assets/fonts/GothamRnd-Bold.otf')
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/assets/fonts/GothamRoundedMedium_21022.ttf')
+}
+
+:root {
+  --pink: #D50361;
+  --pink-clean: #f8879c;
+  --blue: #18AACC;
+  --lightGrey: #989898;
+  --oldpink: #DC1589;
+}
+
+* {
+  box-sizing: border-box;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('/assets/fonts/GothamRoundedMedium_21022.ttf')
+}
+
+@font-face {
+  font-family: 'GothamRoundedBold';
+  src: url('/assets/images/new-landing/GothamRnd-Bold.otf')
+}
+@font-face {
+  font-family: 'GothamRoundedLight';
+  src: url('/assets/images/new-landing/GothamRnd-Light.otf')
+}
+@font-face {
+  font-family: 'GothamRoundedMedium';
+  src: url('/assets/images/new-landing/GothamRnd-Medium.otf')
+}

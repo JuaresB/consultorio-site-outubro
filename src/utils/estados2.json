@@ -1,0 +1,17 @@
+[
+  {
+    "ID": "19",
+    "Sigla": "RJ",
+    "Nome": "Rio de Janeiro"
+  },
+  {
+    "ID": "26",
+    "Sigla": "SP",
+    "Nome": "São Paulo"
+  },
+  {
+    "ID": "99",
+    "Sigla": "XX",
+    "Nome": "Outros"
+  }
+]

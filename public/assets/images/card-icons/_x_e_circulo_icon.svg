@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #efefef;
+        opacity: 0.9;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #afafaf;
+      }
+    </style>
+  </defs>
+  <g id="Group_609" data-name="Group 609" transform="translate(-324.107 -27)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="13" cy="13" r="13" transform="translate(324.107 27)"/>
+    <path id="Cross_copie_2_copiar_4" data-name="Cross copie 2 copiar 4" class="cls-2" d="M4449.01,4709.655l3.229,3.227a.257.257,0,1,1-.364.364l-3.229-3.226-3.228,3.226a.254.254,0,0,1-.363,0,.257.257,0,0,1,0-.364l3.227-3.227-3.227-3.226a.257.257,0,1,1,.363-.365l3.228,3.227,3.229-3.227a.258.258,0,0,1,.364.365l-3.229,3.226" transform="translate(-4111.54 -4669.655)"/>
+  </g>
+</svg>
